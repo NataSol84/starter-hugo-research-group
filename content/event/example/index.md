@@ -27,7 +27,7 @@ publishDate: 2023-11-13T00:00:00.000Z
 tags: []
 projects: null
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: "Калининград: [**сайт администрации**](https://www.klgd.ru/city/tourism/)"
   focal_point: Right
   filename: https://www.klgd.ru/city/tourism/gorod_titul.jpg
 url_code: ""
