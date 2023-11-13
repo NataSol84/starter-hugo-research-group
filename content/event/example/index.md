@@ -29,7 +29,7 @@ projects: null
 image:
   caption: "Калининград: [**сайт администрации**](https://www.klgd.ru/city/tourism/)"
   focal_point: Right
-  filename: ""
+  filename: https://www.klgd.ru/city/tourism/gorod_titul.jpg
 url_code: ""
 ---
 
